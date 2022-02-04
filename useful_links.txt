@@ -1,0 +1,5 @@
+https://pkg.go.dev/std
+To check standard packages in Golang, like you want to know what the available packages like fmt, time do, or how they work.
+
+https://www.digitalocean.com/community/tutorials/understanding-package-visibility-in-go
+Great examples to understand how the packages and variables should be declared and how their different scopes work.
